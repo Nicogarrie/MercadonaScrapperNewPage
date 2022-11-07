@@ -130,3 +130,7 @@ dmypy.json
 
 selenium/
 .idea
+config.ini
+failed_image_ids.txt
+saved_ids.txt
+images/
